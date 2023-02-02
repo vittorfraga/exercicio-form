@@ -1,4 +1,4 @@
-# Valições de cadastro com react
+# Validações de inputs com react
 
 Este formulário foi um exercício proposto pela Cubos Academy para validar os inputs de um cadastro. 
 
