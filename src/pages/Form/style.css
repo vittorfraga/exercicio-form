@@ -1,0 +1,103 @@
+.error {
+  color: #e24242;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 13px;
+
+  width: 376px;
+  margin-top: 2px;
+  margin-left: 2px;
+  align-self: start;
+  position: absolute;
+  top: 50px;
+}
+
+.form-group img {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  right: 5px;
+  top: 13px;
+  cursor: pointer;
+}
+
+form {
+  width: 50;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 138px 100px 32px 123px;
+  width: 50%;
+}
+
+input,
+button {
+  width: 476px;
+  height: 45px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+button {
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+.btn-add {
+  background-color: #2a4d77;
+  margin-top: 52px;
+  margin-bottom: 5px;
+}
+
+.btn-cancel {
+  background: rgba(251, 6, 21, 0.65);
+}
+
+.success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.sucessImg {
+  width: 446px;
+  height: 478.91px;
+  margin-left: 150px;
+}
+
+.successSpan {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #0b2f49;
+  margin-left: 100px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
